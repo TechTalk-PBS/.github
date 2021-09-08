@@ -1,0 +1,5 @@
+{
+    "name": "Simple NodeJS workflow",
+    "description": "Simple workflow to build and test a NodeJS application",
+    "iconName": "nodejs-logo"
+}
